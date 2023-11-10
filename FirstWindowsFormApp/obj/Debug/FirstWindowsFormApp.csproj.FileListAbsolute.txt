@@ -1,0 +1,11 @@
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe.config
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.pdb
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.Properties.Resources.resources
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.exe
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.pdb
+C:\Users\z004u6uz\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.CalculatorForm.resources
